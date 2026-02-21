@@ -1,3 +1,3 @@
-# Respoitorio de ejercicios de JavaScript
+## Repositorio de ejercicios de JavaScript
 
 Ro Winchester
