@@ -1,0 +1,1 @@
+Este archivo se manejaran secciones de JavaScript
