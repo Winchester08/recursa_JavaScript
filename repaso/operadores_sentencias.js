@@ -57,7 +57,7 @@ else {
     console.log("Ninguna de las anteriores");
 }
 
-//switch es como if anidado
+//switch es como if anidado y con else
 
 let v1 = 24;
 switch (v1) {
